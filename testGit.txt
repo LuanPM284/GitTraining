@@ -1,2 +1,6 @@
-console.log("Hello World form vim")
+This is supposed to be a javascript file?
+why?
+
+console.log("Hello World from vim")
+
 
